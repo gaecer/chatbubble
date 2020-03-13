@@ -2,21 +2,22 @@
     {
         "_type" : 1,
         "text" : "Hello my friend how is it going over there? I hope everithing is good and you are having a good time.",
-        "date" : 1582845840000
+        "date" : 1582845840
     },
     {
         "_type" : 2,
         "text" : "Hi, I'm good thank you.",
-        "date" : 1587597840000
+        "date" : 1587597840
     },
     {
         "_type" : 1,
         "text" : "Nice",
-        "date" : 1587598200000
+        "date" : 1587598200
     },
     {
         "_type" : 1,
         "text" : "I have a new position",
-        "date" : 1584055440000
+        "date" : 1584122357
     }
 ]
+
