@@ -1,23 +1,27 @@
 [
     {
         "_type" : 1,
+        "text" : "You matched",
+        "timestamp" : 1582845000
+    },
+    {
+        "_type" : 1,
         "text" : "Hello my friend how is it going over there? I hope everithing is good and you are having a good time.",
-        "date" : 1582845840
+        "timestamp" : 1582845840
     },
     {
         "_type" : 2,
         "text" : "Hi, I'm good thank you.",
-        "date" : 1587597840
+        "timestamp" : 1584127533
     },
     {
         "_type" : 1,
         "text" : "Nice",
-        "date" : 1587598200
+        "timestamp" : 1584128133
     },
     {
         "_type" : 1,
         "text" : "I have a new position",
-        "date" : 1584122357
+        "timestamp" : 1584122357
     }
 ]
-
